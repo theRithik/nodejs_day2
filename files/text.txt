@@ -1,0 +1,1 @@
+hello this from string 1 writeFile

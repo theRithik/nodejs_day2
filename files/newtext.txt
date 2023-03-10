@@ -1,0 +1,4 @@
+hello from nodejs fs require f1
+hello from nodejs fs require f2
+hello from nodejs fs require f3
+hello from nodejs fs require f4
